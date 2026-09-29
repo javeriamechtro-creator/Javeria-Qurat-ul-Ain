@@ -1,1 +1,2 @@
-# Javeria-Qurat-ul-Ain
+# **What ICT means to me?**
+To me, ICT (Information and Communication Technology) means using technology to learn, communicate, create, and solve problems more effectively. It provides tools that make it easier to access information, work with others, and develop new ideas. As a student, I see ICT as an important part of my education because it helps me improve my technical skills, explore new technologies, and share my work with others. Platforms such as GitHub also allow me to organize my projects, collaborate with others, and build a portfolio of my skills. Overall, ICT represents the connection between technology and everyday life, helping me grow academically, professionally, and creatively.
